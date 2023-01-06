@@ -1,0 +1,50 @@
+body {
+    background-image: url("https://www.shutterstock.com/image-illustration/basketball-sport-arena-interior-view-600w-1928926112.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    height: 100vh;
+}
+.container {
+    background-color: white;
+    width: 35%;
+    min-width: 250px;
+    margin: 100px auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: red;
+}
+
+button {
+    border: 2px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: purple;
+}
+
+#save-btn {
+    background: blue;
+}
+
